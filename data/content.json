@@ -1,47 +1,134 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Karkrib Automotive Repair",
+  "tagline": "Irvine Auto Center · Bay 8 · certified technicians.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "IRVINE · AUTO CENTER DRIVE · BAY 8",
+    "heading": "The Irvine auto shop, engineered.",
+    "subheading": "An ASE-certified repair shop in the Irvine Auto Center. European and domestic vehicles, computerized diagnostic, written quote on every job. Drop your keys at Bay 8.",
+    "ctaText": "Get a written quote",
+    "ctaLink": "tel:9493826801",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "The shop",
+    "heading": "ASE-certified. European-trained. Five lifts.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Karkrib Automotive Repair is the technical shop in Bay 8 of the Irvine Auto Center. Five lifts, ASE-certified technicians, and dedicated diagnostic equipment for both European and domestic vehicles.",
+      "We do day-one repairs, scheduled maintenance, brakes, suspension, AC, electrical, and full computerized engine diagnostic. We work on BMW, Mercedes, Audi, Lexus, Toyota, Honda — and everything else with four wheels.",
+      "Closed Sundays. Walk-in or call ahead. Free written quote before any wrench moves."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Diagnostic",
+      "description": "Full OBD scan, live data analysis, road test if required. Printed diagnostic report. Complimentary with any repair we perform.",
+      "price": "$85"
+    },
+    {
+      "title": "Brakes & Rotors",
+      "description": "Pads, rotors, calipers, fluid. OE-spec friction. Bedded-in on the road before delivery.",
+      "price": "from $445"
+    },
+    {
+      "title": "Oil + Inspection",
+      "description": "Synthetic-blend or full-synthetic, OEM filter, top-offs, complete 32-point inspection. European specs respected.",
+      "price": "from $95"
+    },
+    {
+      "title": "Suspension Service",
+      "description": "Struts, shocks, control arms, bushings, sway-bar links. Four-wheel alignment after every install.",
+      "price": "from $545"
+    },
+    {
+      "title": "AC Service",
+      "description": "Diagnostic, leak detection, evac-and-recharge. EPA-certified. Done before the OC summer.",
+      "price": "from $165"
+    },
+    {
+      "title": "Engine Diagnostic",
+      "description": "Computer scan, harness check, live data interpretation, repair plan with written cost breakdown.",
+      "price": "$135"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Andre L.",
+      "rating": 5,
+      "context": "BMW 535i 2018",
+      "text": "Karkrib has been the shop for both my BMWs for five years. Their pricing is straight, their diagnosis is precise, and their work is exactly what I'd expect from the dealer minus the dealer prices."
+    },
+    {
+      "name": "Priya S.",
+      "rating": 5,
+      "context": "Mercedes C300 2020",
+      "text": "Tried Karkrib after years of dealer service that always took a week and came back wrong. They had my car back to me in two days with a written report. I won't go anywhere else now."
+    },
+    {
+      "name": "Carlos B.",
+      "rating": 4,
+      "context": "Lexus RX 2016",
+      "text": "Walked in for a brake job and they upgraded me to performance pads on a dealer-warranty inspection that turned out to be free. Real shop, real techs, real people."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(949) 382-6801",
+    "email": "service@karkribauto.com",
+    "address": "51 Auto Center Dr #8, Irvine, CA 92618",
+    "mapEmbedQuery": "Karkrib Automotive Repair, 51 Auto Center Dr, Irvine, CA 92618",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
+      "Monday": "9:30 AM – 5:00 PM",
+      "Tuesday": "9:30 AM – 5:00 PM",
+      "Wednesday": "9:30 AM – 5:00 PM",
+      "Thursday": "9:30 AM – 5:00 PM",
+      "Friday": "9:30 AM – 5:00 PM",
+      "Saturday": "9:30 AM – 5:00 PM",
       "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Karkrib Automotive Repair — Irvine Auto Center technical shop",
+    "description": "ASE-certified auto repair in Bay 8 of the Irvine Auto Center. European and domestic vehicles, full diagnostic, written quotes on every job.",
+    "keywords": [
+      "Irvine auto repair",
+      "Irvine Auto Center mechanic",
+      "European auto shop OC",
+      "ASE certified Irvine"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#050505",
+    "accentColor": "#2563EB",
+    "fontFamily": "bebasneue-manrope-jetbrainsmono"
+  },
+  "designSystem": {
+    "searchQuery": "premium technical auto shop carbon black horizon blue silver bebas neue german tech",
+    "styleName": "Premium Technical Garage (carbon + horizon blue)",
+    "pattern": "Dark hero + Service Manifest + Blue CTA",
+    "palette": {
+      "primary": "#050505",
+      "secondary": "#1E293B",
+      "cta": "#2563EB",
+      "accent": "#2563EB",
+      "background": "#F8FAFC",
+      "text": "#050505",
+      "muted": "#64748B",
+      "border": "#94A3B8",
+      "surface": "#1E293B"
+    },
+    "typography": {
+      "heading": "Bebas Neue",
+      "body": "Manrope",
+      "label": "JetBrains Mono",
+      "mood": "Premium technical garage, ASE-certified, carbon black + horizon blue, German tech-auto, condensed display"
+    },
+    "moves": [
+      "Bebas Neue condensed display — auto-show poster energy, first Bebas in the build",
+      "Carbon black hero with grid-bg overlay + photo at 35% opacity behind",
+      "Horizon-blue 3-stat sidebar in hero — '// RATED' '// OPEN' '// LOCATION' rail",
+      "Service manifest as 3-col grid on slate with horizon-blue 1px dividers",
+      "Horizon-blue visit section — first blue-primary visit block in the build",
+      "Dark hero + light about + dark services alternation — magazine rhythm"
+    ]
   }
 }
